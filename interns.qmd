@@ -10,7 +10,7 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/huifu_logo.png)
 
 :::
 
@@ -33,7 +33,7 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/data_exchange_logo.png)
 
 :::
 
@@ -53,7 +53,7 @@ Project: Built and Verified the DApp Model<br>
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+![](files/images/wutongchain-logo.webp)
 
 :::
 

@@ -68,5 +68,6 @@ Project: Built and Verified the DApp Model<br>
 :::
 
 
+{{< include /files/includes/_socialshare.qmd >}}
 
 

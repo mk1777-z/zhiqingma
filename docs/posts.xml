@@ -117,7 +117,7 @@ https://quarto.org/docs/authoring/includes.html
 <p>• Blockchain: Developed smart contract chain codes based on <strong>Hyperledger Fabric</strong> to implement copyright evidence storage, automated transaction execution, and revenue distribution logic, ensuring tamper-proof and fully traceable transaction data.</p>
 <p>• Data Storage: Designed a hybrid storage architecture storing critical transaction hashes on-chain while managing business data off-chain via <strong>MySQL</strong> and storing image/document files using <strong>Huawei Cloud OBS</strong>, balancing performance and security requirements.</p>
 <p>• Backend: Designed and implemented the backend architecture for a blockchain-based smart copyright trading platform. Built high-performance RESTful APIs using <strong>Golang + Hertz</strong> microservices framework to support core functions including copyright registration on-chain, transaction execution, and regulatory review. Implemented a comprehensive permission control system encompassing user registration/login, JWT authentication, and regulatory review. Utilized WebSocket calls to large models for AI-assisted Q&amp;A.</p>
-<p><a href="https://b23.tv/ixS4DDp"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/project1.png" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://www.bilibili.com/video/BV1hF5kzWEhq?t=4m11s"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/project1.png" class="img-fluid" style="width:90.0%"></a></p>
 <p>(Click the image to view the project introduction video submitted for the competition)</p>
 <p>17TH SHANGHAI UNIVERSITY COMPUTER APPLICATION CONTEST Second Prize | Jun 2025</p>
 <!--Include social share buttons-->
@@ -136,6 +136,14 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>projects</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/projects/chainCloud/</guid>
+  <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/structure.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
+<item>
+  <title>Chain Cloud: A decentralized copyright trading platform</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <description>Developed a blockchain-based platform for copyright trading</description>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
   <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/structure.png" medium="image" type="image/png" height="84" width="144"/>
 </item>
@@ -341,22 +349,23 @@ locations.forEach(function(location) {
 });
 
 </script>
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin" href="linkedin.com/in/zhiqing-ma-072ab2385"></a> <a class="a2a_button_email" href="zhiqingma0228@163.com"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 
  ]]></description>
   <category>interests</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/interests/trip.html</guid>
-  <pubDate>Fri, 12 Dec 2025 02:55:04 GMT</pubDate>
+  <pubDate>Sat, 13 Dec 2025 05:13:09 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/travel.svg" medium="image" type="image/svg+xml"/>
-</item>
-<item>
-  <title>Chain Cloud: A decentralized copyright trading platform</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Developed a blockchain-based platform for copyright trading</description>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Fri, 12 Dec 2025 02:55:04 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/structure.png" medium="image" type="image/png" height="84" width="144"/>
 </item>
 </channel>
 </rss>

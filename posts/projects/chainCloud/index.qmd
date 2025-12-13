@@ -18,7 +18,7 @@ image: "/files/images/structure.png"
 
 • Backend: Designed and implemented the backend architecture for a blockchain-based smart copyright trading platform. Built high-performance RESTful APIs using **Golang + Hertz** microservices framework to support core functions including copyright registration on-chain, transaction execution, and regulatory review. Implemented a comprehensive permission control system encompassing user registration/login, JWT authentication, and regulatory review. Utilized WebSocket calls to large models for AI-assisted Q&A.
 
-[![](/files/images/project1.png){width="90%"}](https://b23.tv/ixS4DDp)
+[![](/files/images/project1.png){width="90%"}](https://www.bilibili.com/video/BV1hF5kzWEhq?t=4m11s)
 
 (Click the image to view the project introduction video submitted for the competition)
 

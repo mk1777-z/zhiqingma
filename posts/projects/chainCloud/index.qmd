@@ -22,6 +22,8 @@ image: "/files/images/structure.png"
 
 (Click the image to view the project introduction video submitted for the competition)
 
+[github repository](https://github.com/mk1777-z/hyperledger-fabric-copyright)
+
 17TH SHANGHAI UNIVERSITY COMPUTER APPLICATION CONTEST Second Prize | Jun 2025
 
 

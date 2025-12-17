@@ -11,8 +11,9 @@ listing:
   filter-ui: true
   feed: true
   contents: 
-      - posts
-      - posts/post-links.yml  # Use this file to add external links
+      - "posts/**/*.qmd"  # Only match .qmd files
+      # - posts/post-links.yml  # Uncomment when you have valid entries in this file
+      # - posts/projects/awards/index.qmd
   # categories: [news] 
 
 #page-layout: full

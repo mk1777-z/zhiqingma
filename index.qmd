@@ -2,7 +2,7 @@
 title: "Zhiqing Ma"
 subtitle: |
   **B.S. in Computer Science** | Shanghai University <br>
-  **Email:** zhiqingma77k@gmail.com
+  **Email:** zhiqingma0228[at]163.com
 description-meta: "Academic Website of Zhiqing Ma"
 image: "files/images/personal.jpg"
 page-navigation: false
@@ -27,8 +27,8 @@ about:
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
     contents: 
-      - posts
-      - posts/post-links.yml
+      - "posts/**/*.qmd"
+      # - posts/post-links.yml
     exclude:
       title: ""
     type: grid

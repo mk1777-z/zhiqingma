@@ -1,0 +1,56 @@
+---
+title: "Volunteer Service Experience"
+description: "My journey in community service and voluntary activities in Shanghai"
+author: "Zhiqing Ma"
+date: "2025-12-17"
+categories: [volunteering, community service]
+image: "/files/images/volunteering.png"
+draft: false
+---
+
+## Overview
+
+From 2022 to 2025, I actively participated in various voluntary service activities across Shanghai, accumulating over **120 hours** of community service. These experiences have enriched my understanding of social responsibility and strengthened my commitment to giving back to the community.
+
+## Key Activities
+
+### Academic & Educational Events
+- **World Supercomputer Contest** - Provided support and assistance for this prestigious international competition
+- **Freshmen Orientation** - Helped welcome and guide new students during their transition to university life
+- **Knowledge Popularization** - Engaged in educational outreach programs to share knowledge with the community
+
+### Public Service
+- **Library Services** - Assisted with book organization, reader services, and library management
+- **Hospital Services** - Supported hospital staff and provided assistance to patients and visitors
+- **Museum Volunteer** - Helped visitors navigate exhibits and learn about cultural heritage
+
+### Community Engagement
+- **Commercial Activities** - Participated in community events and local business activities
+- **Hiking Activities** - Organized and participated in outdoor activities promoting health and environmental awareness
+- **Sports Events** - Volunteered at various sports competitions and community sports programs
+- **Cultural Activities** - Contributed to cultural exchange events and programs
+
+### Health & Wellness
+- **Blood Donation** - Regular blood donor, contributing to emergency medical needs
+- **Health Services** - Participated in health awareness campaigns and medical service activities
+
+## Impact & Reflection
+
+Through these diverse volunteering experiences, I have:
+
+- Developed strong interpersonal and communication skills across different contexts
+- Gained a deeper appreciation for community service and social responsibility
+- Enhanced my organizational and teamwork abilities
+- Built meaningful connections with people from various backgrounds
+- Contributed positively to my community while growing personally and professionally
+
+## Statistics
+
+- **Total Service Hours:** 120+ hours
+- **Duration:** 2022 - 2025
+- **Location:** Shanghai, China
+- **Types of Activities:** 12+ different categories
+
+---
+
+*Continuing to seek opportunities to serve and make a positive impact in the community.*

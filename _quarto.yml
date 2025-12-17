@@ -17,14 +17,16 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: Home
         href: index.qmd
-      # - text: About
-      #   menu:
-      #     - text: News
-      #       href: posts.qmd#category=news
-      #     - text: Events
-      #       href: posts.qmd#category=event      
-      #     - text: Contact
-      #       href: contact.qmd              
+      - text: About
+        menu:
+          - text: Tech Stack
+            href: Technology_stack.qmd
+          - text: Awards & Honors
+            href: posts/awards/index.html      
+          - text: Contact
+            href: contact.qmd    
+          - text: Volunteering
+            href: posts/volunteering/index.html          
       - text: Projects
         href: projects.qmd                                
       - text: Interns # Comment the Teaching part out to remove the Teaching page
@@ -39,10 +41,10 @@ website:
           href: posts/interests/trip.qmd#category=travel     
       # - text: Group   # Comment the Group part out to remove the Group page
       #   href: people.qmd
-      - text: Tech Stack
-        href: Technology_stack.qmd
-      - text: Contact
-        href: contact.qmd   
+      # - text: Tech Stack
+      #   href: Technology_stack.qmd
+      # - text: Contact
+      #   href: contact.qmd   
 
     right: 
       # - text: CV

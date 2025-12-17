@@ -1,9 +1,9 @@
-- path: posts/projects/chainCloud/index.html
-  image: "/files/images/structure.png"
-  title: "Chain Cloud: A decentralized copyright trading platform"
-  author: "Zhiqing Ma, Wenhao Wang, Huaxuan Xiao, Siyi Yao"
-  description: "Developed a blockchain-based platform for copyright trading"
-  date: "2025-04-03"
+# - path: posts/projects/chainCloud/index.html
+#   image: "/files/images/structure.png"
+#   title: "Chain Cloud: A decentralized copyright trading platform"
+#   author: "Zhiqing Ma, Wenhao Wang, Huaxuan Xiao, Siyi Yao"
+#   description: "Developed a blockchain-based platform for copyright trading"
+#   date: "2025-04-03"
   # categories: [projects]
 
 # - path: /posts/interests/running.html#category=running

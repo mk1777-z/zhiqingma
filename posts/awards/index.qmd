@@ -1,0 +1,61 @@
+---
+title: "Awards & Honors"
+description: "Academic achievements and leadership recognitions"
+author: "Zhiqing Ma"
+date: "2025-12-15" 
+categories: [awards]
+image: "/files/images/awards.png"
+#css: /custom.css
+#draft: false
+---
+
+## Competitions
+
+**Third Prize**, Lanqiao Cup National IT Competition (C/C++), China  
+*May 2025*
+
+**Second Prize**, 17th Shanghai College Students' Computer Application Contest  
+*Feb. 2024 – Apr. 2025*
+
+**Third Prize**, Shanghai Region, China Undergraduate Mathematical Contest in Modeling  
+*Nov. 2024*
+
+**Meritorious Winner**, [American Mathematical Contest in Modeling (MCM)](../model/index.qmd)
+*Apr. 2024*
+
+
+**Third Prize**, Shanghai Region, China Undergraduate Mathematical Contest in Modeling  
+*Nov. 2023*
+
+---
+
+## Honors & Scholarships
+**Innovation and Entrepreneurship Scholarship (Top 5%)**, Shanghai University
+*2024 - 2025*
+
+**Outstanding Student (Top 6%)**, Shanghai University  
+*2024*
+
+**Leadership Scholarship (Top 5%)**, Shanghai University  
+*2023 – 2024*
+
+**Outstanding Student (Top 6%)**, Shanghai University  
+*2023*
+
+**"Self-Improvement" Scholarship (Top 5%)**, Shanghai University  
+*2022 – 2023*
+
+**"Love & Charity" Scholarship (Top 5%)**, Shanghai University  
+*2022 – 2023*
+
+---
+
+## Leadership & Service
+
+**Tech Leader**, [Roller Skating Club, Shanghai University](../../interests/skating.qmd)  
+*Jun. 2023 – Jun. 2024*
+
+**Officer**, Student Union, Shanghai University  
+*Sep. 2022 – Jun. 2023*
+
+{{< include /files/includes/_socialshare.qmd >}}

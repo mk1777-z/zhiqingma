@@ -20,7 +20,7 @@ image: "/files/images/awards.png"
 **Third Prize**, Shanghai Region, China Undergraduate Mathematical Contest in Modeling  
 *Nov. 2024*
 
-**Meritorious Winner**, [American Mathematical Contest in Modeling (MCM)](../model/index.qmd)
+**Meritorious Winner**, [American Mathematical Contest in Modeling (MCM)](../projects/model/index.qmd)
 *Apr. 2024*
 
 
@@ -52,7 +52,7 @@ image: "/files/images/awards.png"
 
 ## Leadership & Service
 
-**Tech Leader**, [Roller Skating Club, Shanghai University](../../interests/skating.qmd)  
+**Tech Leader**, [Roller Skating Club, Shanghai University](../interests/skating.qmd)  
 *Jun. 2023 – Jun. 2024*
 
 **Officer**, Student Union, Shanghai University  

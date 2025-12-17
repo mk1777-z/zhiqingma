@@ -23,10 +23,10 @@ website:
             href: Technology_stack.qmd
           - text: Awards & Honors
             href: posts/awards/index.html      
-          - text: Contact
-            href: contact.qmd    
           - text: Volunteering
-            href: posts/volunteering/index.html          
+            href: posts/volunteering/index.html  
+          - text: Contact
+            href: contact.qmd            
       - text: Projects
         href: projects.qmd                                
       - text: Interns # Comment the Teaching part out to remove the Teaching page

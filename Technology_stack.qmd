@@ -94,3 +94,6 @@ page-layout: article
   </div>
 </div>
 ```
+
+{{< include /files/includes/_socialshare.qmd >}}
+

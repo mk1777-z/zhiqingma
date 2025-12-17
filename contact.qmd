@@ -18,3 +18,6 @@ E-mail:
 
 
 </center>
+
+{{< include /files/includes/_socialshare.qmd >}}
+

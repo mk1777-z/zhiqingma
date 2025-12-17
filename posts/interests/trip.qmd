@@ -167,3 +167,4 @@ locations.forEach(function(location) {
 
 </script>
 ```
+{{< include /files/includes/_socialshare.qmd >}}

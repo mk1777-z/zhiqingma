@@ -56,7 +56,6 @@ Welcome to my personal website where I share my projects and research.
 
 - **Java Backend Engineer Intern** | Huifu Payment Limited
 - **R&D Intern** | Shanghai Data Exchange Corp., Ltd
-- **Blockchain R&D Intern** | Wutong Chain Digital Technology Research Institute
 
 ## Research Experience
 

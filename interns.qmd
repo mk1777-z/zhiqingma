@@ -48,26 +48,6 @@ Project: Built and Verified the DApp Model<br>
 :::
 
 
-## Wutong Chain Digital Technology Research Institute
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/wutongchain-logo.webp)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Blockchain R&D Intern](https://www.wutongchain.com/) | 06.2023 - 08.2023<br>
-
-· Assisted in building the Wutong Privacy Computing Platform, utilizing secure multi-party computation to achieve "data available but invisible," solving data circulation privacy challenges.
-
-:::
-
-:::
-
-
 {{< include /files/includes/_socialshare.qmd >}}
 
 

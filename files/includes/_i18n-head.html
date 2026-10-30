@@ -1,0 +1,20 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+<script>
+  // Apply the saved language before first paint to avoid a flash of the wrong language.
+  (function () {
+    var lang = "en";
+    try { lang = localStorage.getItem("site-lang") || "en"; } catch (e) {}
+    // ?lang=zh / ?lang=en in the URL overrides the saved choice (handy for sharing a Chinese link).
+    var m = /[?&]lang=(zh|en)\b/.exec(location.search);
+    if (m) {
+      lang = m[1];
+      try { localStorage.setItem("site-lang", lang); } catch (e) {}
+    }
+    if (lang === "zh") {
+      document.documentElement.classList.add("lang-zh");
+      document.documentElement.setAttribute("lang", "zh-CN");
+    }
+  })();
+</script>

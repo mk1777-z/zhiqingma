@@ -1,53 +1,72 @@
 ---
-title: "Internship Experience"
-subtitle: "Three internships focused on backend development, blockchain technology, and cybersecurity solutions"
+title: "Experience"
+pagetitle: "Experience | Zhiqing Ma"
+subtitle: '<span class="en">Backend engineering internships in payments and blockchain infrastructure</span><span class="zh">支付与区块链基础设施方向的后端开发实习</span>'
+description-meta: "Work experience of Zhiqing Ma — Java backend engineering at Huifu Payment and R&D at Shanghai Data Exchange"
 title-block-banner: false
+toc: false
 ---
 
+```{=html}
+<div class="exp-page">
 
-## Huifu Payment Limited 
+  <article class="tl-item">
+    <img class="tl-logo" src="files/images/huifu_logo.png" alt="Huifu Payment">
+    <div class="tl-main">
+      <div class="tl-head">
+        <h3>
+          <a href="https://www.huifu.com/en/" target="_blank" rel="noopener"><span class="en">Huifu Payment</span><span class="zh">汇付天下</span></a>
+          <span class="tl-role"><span class="en">Java Backend Intern</span><span class="zh">Java 后端开发实习生</span></span>
+        </h3>
+        <span class="tl-date"><span class="en">Jul 2025 – Dec 2025 · Shanghai</span><span class="zh">2025.07 – 2025.12 · 上海</span></span>
+      </div>
+      <p class="tl-sub">
+        <span class="en">B2B crypto–fiat payment platform; the production system processes CNY 10M+ in monthly transaction volume.</span>
+        <span class="zh">B2B 加密货币–法币支付平台，生产系统月交易额超 1000 万元人民币。</span>
+      </p>
+      <ul class="tl-points en">
+        <li><strong>Idempotent payment APIs</strong> — designed payment order creation/cancellation APIs in Spring Cloud; enforced idempotency with Redisson distributed locks (deduplication) and optimistic locking (state transitions) for exactly-once updates.</li>
+        <li><strong>Multi-currency withdrawals</strong> — led the upgrade of fiat withdrawals, adding HKD, EUR and SGD end to end (API, validation, ledger) with real-time FX-based limits; owned design, implementation, and JUnit tests with mocked callbacks.</li>
+        <li><strong>Fee settlement</strong> — built a flow that reconciles estimated fees against actual channel costs from asynchronous provider callbacks, auto-refunds differences, and retries idempotently to keep the ledger consistent.</li>
+        <li><strong>Reconciliation engine</strong> — developed a scheduled and on-demand engine that normalizes and cross-checks internal ledgers against 6+ heterogeneous sources (database tables, payment providers via Feign).</li>
+        <li><strong>AI voice verification</strong> — integrated a third-party service via synchronous requests and asynchronous callbacks over the in-house message queue, persisting verification states and routing risk decisions to manual review.</li>
+      </ul>
+      <ul class="tl-points zh">
+        <li><strong>幂等支付接口</strong>：基于 Spring Cloud 设计支付订单创建/取消接口；通过 Redisson 分布式锁（请求去重）与乐观锁（状态流转）保证幂等，实现 exactly-once 更新。</li>
+        <li><strong>多币种提现</strong>：主导法币提现升级，端到端新增港币、欧元、新加坡元（API、校验、账务），并基于实时汇率实现限额控制；独立负责设计、开发及基于 mock 回调的 JUnit 测试。</li>
+        <li><strong>手续费结算</strong>：依据渠道异步回调中的实际成本核对预估手续费，自动退还差额，并通过幂等重试保证账务一致。</li>
+        <li><strong>对账引擎</strong>：开发定时与按需触发的对账引擎，对内部账本与 6+ 异构数据源（数据库多张表、通过 Feign 接入的支付渠道）进行标准化与交叉核对。</li>
+        <li><strong>AI 语音核验</strong>：通过同步请求与内部消息队列异步回调接入第三方服务，持久化核验状态，并将风控决策路由至人工审核。</li>
+      </ul>
+      <div class="chips">
+        <span>Java</span><span>Spring Cloud</span><span>Redisson</span><span>MySQL</span><span>Feign</span><span>Message Queue</span><span>JUnit</span>
+      </div>
+    </div>
+  </article>
 
-::: {.grid}
+  <article class="tl-item">
+    <img class="tl-logo" src="files/images/data_exchange_logo.png" alt="Shanghai Data Exchange">
+    <div class="tl-main">
+      <div class="tl-head">
+        <h3>
+          <a href="https://www.chinadep.com/website/" target="_blank" rel="noopener"><span class="en">Shanghai Data Exchange</span><span class="zh">上海数据交易所</span></a>
+          <span class="tl-role"><span class="en">R&amp;D Intern</span><span class="zh">研发实习生</span></span>
+        </h3>
+        <span class="tl-date"><span class="en">Jan 2025 – Feb 2025 · Shanghai</span><span class="zh">2025.01 – 2025.02 · 上海</span></span>
+      </div>
+      <ul class="tl-points en">
+        <li>Prototyped a Solana DApp for token-based trading of AI compute and built Java REST APIs that validate on-chain events and allocate compute resources.</li>
+      </ul>
+      <ul class="tl-points zh">
+        <li>原型开发基于 Solana 的 AI 算力代币化交易 DApp，并构建 Java REST API，用于校验链上事件并分配算力资源。</li>
+      </ul>
+      <div class="chips">
+        <span>Java</span><span>REST</span><span>Solana</span>
+      </div>
+    </div>
+  </article>
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/huifu_logo.png)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-<!-- [Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com) -->
-[Java Backend Engineer Intern](https://www.huifu.com/en/) | 07.2025 - now<br>
-
-· Engineered high-availability backend microservices for cross-border payments; designed an asynchronous "estimate-and-compensate" mechanism for multi-currency withdrawals to resolve exchange rate latency and ensure ledger consistency.<br>
-· Developed full-lifecycle interfaces for stablecoin acquiring, implementing end-to-end logic for order creation, cancellation, and final settlement to enable seamless crypto-to-fiat conversion.<br>
-· Optimized financial reconciliation processes by building custom SQL automation tools for the finance team and resolved critical production infrastructure issues to ensure system stability.
-
-:::
-
-:::
-
-
-## Shanghai Data Exchange Corp., Ltd
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/data_exchange_logo.png)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[R&D Intern](https://www.chinadep.com/website/) | 01.2025 - 03.2025<br>
-Project: Built and Verified the DApp Model<br>
-· Built a full-process simulation DApp model for exchanging tokens for AI computing power in Java, with the core module focusing on the interaction between the Solana blockchain and AI computing services.
-
-:::
-
-:::
-
+</div>
+```
 
 {{< include /files/includes/_socialshare.qmd >}}
-
-

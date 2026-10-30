@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Zhiqing Ma</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Quarto Academic Website Template adapted by Zhiqing Ma</description>
+<link>https://mk1777-z.github.io/zhiqingma/posts.html</link>
+<atom:link href="https://mk1777-z.github.io/zhiqingma/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Zhiqing Ma — Software Engineer (Backend &amp; Distributed Systems)</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 16 Dec 2025 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Volunteer Service Experience</title>
   <dc:creator>Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/volunteering/</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/volunteering/</link>
   <description><![CDATA[ 
 
 
@@ -87,14 +87,14 @@
  ]]></description>
   <category>volunteering</category>
   <category>community service</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/volunteering/</guid>
-  <pubDate>Tue, 16 Dec 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/volunteering.png" medium="image" type="image/png"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/volunteering/</guid>
+  <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/volunteering.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
   <title>Awards &amp; Honors</title>
   <dc:creator>Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/awards/</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/awards/</link>
   <description><![CDATA[ 
 
 
@@ -149,14 +149,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>awards</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/awards/</guid>
-  <pubDate>Sun, 14 Dec 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/awards.png" medium="image" type="image/png"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/awards/</guid>
+  <pubDate>Mon, 15 Dec 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/awards.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
   <title>Running Record</title>
   <dc:creator>Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/interests/running.html</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/interests/running.html</link>
   <description><![CDATA[ 
 
 
@@ -179,14 +179,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>interests</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/interests/running.html</guid>
-  <pubDate>Tue, 09 Dec 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/running.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/interests/running.html</guid>
+  <pubDate>Wed, 10 Dec 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/running.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Freestyle Skating Record</title>
   <dc:creator>Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/interests/skating.html</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/interests/skating.html</link>
   <description><![CDATA[ 
 
 
@@ -194,7 +194,7 @@ https://quarto.org/docs/authoring/includes.html
 
 <p>Director, Technology Department, Roller Skating Club, SHU | 09.2022-06. 2023</p>
 <p>Responsible for teaching the movement to the members and choreographing the dance of roller skating for the opening ceremony of the sports festival, as well as managing the club’s daily work.</p>
-<p><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/skating.jpg" class="img-fluid" style="width:90.0%"></p>
+<p><img src="https://mk1777-z.github.io/zhiqingma/files/images/skating.jpg" class="img-fluid" style="width:90.0%"></p>
 <p>to be continued …</p>
 <!--Include social share buttons-->
 <!-- 
@@ -211,14 +211,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>interests</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/interests/skating.html</guid>
-  <pubDate>Mon, 03 Nov 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/skating.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/interests/skating.html</guid>
+  <pubDate>Tue, 04 Nov 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/skating.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Smart Contract Penetrating Supervision Solution for Regional Equity Markets</title>
   <dc:creator>Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/projects/supervision/</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/projects/supervision/</link>
   <description><![CDATA[ 
 
 
@@ -241,25 +241,25 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>projects</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/projects/supervision/</guid>
-  <pubDate>Tue, 02 Sep 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/paper.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/projects/supervision/</guid>
+  <pubDate>Wed, 03 Sep 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/paper.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Chain Cloud: A decentralized copyright trading platform</title>
   <dc:creator>Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/projects/chainCloud/</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/projects/chainCloud/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/structure.png" class="img-fluid" style="width:90.0%"></p>
+<p><img src="https://mk1777-z.github.io/zhiqingma/files/images/structure.png" class="img-fluid" style="width:90.0%"></p>
 <p>• Key platform features include: blockchain-based copyright evidence storage, smart contract-driven copyright transactions, multidimensional data analytics and visualization, regulatory auditing, and traceability queries.</p>
 <p>• Blockchain: Developed smart contract chain codes based on <strong>Hyperledger Fabric</strong> to implement copyright evidence storage, automated transaction execution, and revenue distribution logic, ensuring tamper-proof and fully traceable transaction data.</p>
 <p>• Data Storage: Designed a hybrid storage architecture storing critical transaction hashes on-chain while managing business data off-chain via <strong>MySQL</strong> and storing image/document files using <strong>Huawei Cloud OBS</strong>, balancing performance and security requirements.</p>
 <p>• Backend: Designed and implemented the backend architecture for a blockchain-based smart copyright trading platform. Built high-performance RESTful APIs using <strong>Golang + Hertz</strong> microservices framework to support core functions including copyright registration on-chain, transaction execution, and regulatory review. Implemented a comprehensive permission control system encompassing user registration/login, JWT authentication, and regulatory review. Utilized WebSocket calls to large models for AI-assisted Q&amp;A.</p>
-<p><a href="https://www.bilibili.com/video/BV1hF5kzWEhq?t=4m11s"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/project1.png" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://www.bilibili.com/video/BV1hF5kzWEhq?t=4m11s"><img src="https://mk1777-z.github.io/zhiqingma/files/images/project1.png" class="img-fluid" style="width:90.0%"></a></p>
 <p>(Click the image to view the project introduction video submitted for the competition)</p>
 <p><a href="https://github.com/mk1777-z/hyperledger-fabric-copyright">github repository</a></p>
 <p>17TH SHANGHAI UNIVERSITY COMPUTER APPLICATION CONTEST Second Prize | Jun 2025</p>
@@ -278,25 +278,25 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>projects</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/projects/chainCloud/</guid>
-  <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/structure.png" medium="image" type="image/png" height="84" width="144"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/projects/chainCloud/</guid>
+  <pubDate>Thu, 03 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/structure.png" medium="image" type="image/png" height="84" width="144"/>
 </item>
 <item>
   <title>Holistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms</title>
   <dc:creator>Junjie Pu, Sheng Li, Zhiqing Ma</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/projects/model/</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/projects/model/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/lamprey_model_workFlow.png" class="img-fluid" style="width:90.0%"></p>
+<p><img src="https://mk1777-z.github.io/zhiqingma/files/images/lamprey_model_workFlow.png" class="img-fluid" style="width:90.0%"></p>
 <p>• Key project features include: quantification of sex ratio functions, simulation of parasite diffusion using spectral methods, and a robust numerical solver for non-trivial equilibrium systems.</p>
 <p>• <strong>Data Analysis &amp; Pre-processing</strong>: Cleaned historical observation data and quantified the key “sex ratio function” by conducting comparative analysis between <strong>Polynomial Regression</strong> and <strong>SVM (Support Vector Machines)</strong>, establishing the statistical foundation for the ecosystem model.</p>
 <p>• <strong>Core Simulation Engine</strong>: Designed and implemented a solver based on the <strong>Finite Difference Method</strong> to handle the complex ODE-PDE coupling model. Introduced the <strong>Dirac Delta function</strong> to accurately mathematically express biological pulses within the ecosystem.</p>
 <p>• <strong>Optimization &amp; Stability</strong>: Implemented the <strong>Levenberg-Marquardt algorithm</strong> and <strong>Trust Domain Policy Optimization (TRPO)</strong> to solve for non-trivial equilibrium, ensuring numerical convergence where traditional black-box tools failed. Applied the <strong>Chebyshev spectral method</strong> to simulate the diffusion effect of parasites with high accuracy.</p>
-<p><a href="../../..\files/pdf/2403047.pdf"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/lamprey_model_ecosystem.png" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="../../..\files/pdf/2403047.pdf"><img src="https://mk1777-z.github.io/zhiqingma/files/images/lamprey_model_ecosystem.png" class="img-fluid" style="width:90.0%"></a></p>
 <p>(Click the image to view the technical paper)</p>
 <p><strong>MCM/ICM (Mathematical Contest in Modeling)</strong> Meritorious Winner (First Prize) | Apr 2024</p>
 <!-- 
@@ -313,13 +313,13 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>projects</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/projects/model/</guid>
-  <pubDate>Wed, 14 Feb 2024 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/lamprey_model_workFlow.png" medium="image" type="image/png" height="101" width="144"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/projects/model/</guid>
+  <pubDate>Thu, 15 Feb 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/lamprey_model_workFlow.png" medium="image" type="image/png" height="101" width="144"/>
 </item>
 <item>
   <title>My Travel Journey</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/interests/trip.html</link>
+  <link>https://mk1777-z.github.io/zhiqingma/posts/interests/trip.html</link>
   <description><![CDATA[ 
 
 
@@ -498,9 +498,9 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>interests</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/interests/trip.html</guid>
-  <pubDate>Fri, 13 Mar 2026 13:40:35 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/travel.svg" medium="image" type="image/svg+xml"/>
+  <guid>https://mk1777-z.github.io/zhiqingma/posts/interests/trip.html</guid>
+  <pubDate>Thu, 29 Oct 2026 04:16:54 GMT</pubDate>
+  <media:content url="https://mk1777-z.github.io/zhiqingma/files/images/travel.svg" medium="image" type="image/svg+xml"/>
 </item>
 </channel>
 </rss>

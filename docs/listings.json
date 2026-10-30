@@ -17,19 +17,6 @@
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/interests/trip.html",
-      "/posts/volunteering/index.html",
-      "/posts/awards/index.html",
-      "/posts/interests/running.html",
-      "/posts/interests/skating.html",
-      "/posts/projects/supervision/index.html",
-      "/posts/projects/chainCloud/index.html",
-      "/posts/projects/model/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": []
   }

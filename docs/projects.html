@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Zhiqing Ma">
-<meta name="description" content="Quarto Academic Website Template adapted by Zhiqing Ma">
+<meta name="description" content="Zhiqing Ma — Software Engineer (Backend &amp; Distributed Systems), M.S. in Information Technology at Carnegie Mellon University">
 
 <title>Research Projects &amp; School Projects – Zhiqing Ma</title>
 <style>
@@ -121,7 +121,7 @@ Load Academicons v1: https://jpswalsh.github.io/academicons/
 
 
 
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 
 
@@ -148,6 +148,26 @@ https://badge.dimensions.ai/
 
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=JetBrains+Mono:wght@400;500&amp;family=Noto+Sans+SC:wght@400;500;700&amp;display=swap">
+<script>
+  // Apply the saved language before first paint to avoid a flash of the wrong language.
+  (function () {
+    var lang = "en";
+    try { lang = localStorage.getItem("site-lang") || "en"; } catch (e) {}
+    // ?lang=zh / ?lang=en in the URL overrides the saved choice (handy for sharing a Chinese link).
+    var m = /[?&]lang=(zh|en)\b/.exec(location.search);
+    if (m) {
+      lang = m[1];
+      try { localStorage.setItem("site-lang", lang); } catch (e) {}
+    }
+    if (lang === "zh") {
+      document.documentElement.classList.add("lang-zh");
+      document.documentElement.setAttribute("lang", "zh-CN");
+    }
+  })();
+</script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -235,12 +255,12 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
-<span class="menu-text">Projects</span></a>
+    <a class="nav-link" href="./interns.html"> 
+<span class="menu-text">Experience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./interns.html"> 
-<span class="menu-text">Interns</span></a>
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-interests" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -507,6 +527,84 @@ https://quarto.org/docs/authoring/includes.html
 
 
 </main> <!-- /main -->
+<script>
+  (function () {
+    var NAV_ZH = {
+      "Home": "首页",
+      "About": "关于",
+      "Experience": "实习经历",
+      "Projects": "项目",
+      "Tech Stack": "技术栈",
+      "Awards & Honors": "奖项荣誉",
+      "Volunteering": "志愿服务",
+      "Contact": "联系方式",
+      "Interests": "兴趣爱好",
+      "Roller Skating": "轮滑",
+      "Running": "跑步",
+      "Travel": "旅行"
+    };
+
+    var root = document.documentElement;
+
+    function currentLang() {
+      return root.classList.contains("lang-zh") ? "zh" : "en";
+    }
+
+    function translateNav(lang) {
+      document.querySelectorAll(".navbar .menu-text, .navbar .dropdown-text").forEach(function (el) {
+        if (!el.dataset.en) el.dataset.en = el.textContent.trim();
+        var en = el.dataset.en;
+        el.textContent = lang === "zh" && NAV_ZH[en] ? NAV_ZH[en] : en;
+      });
+    }
+
+    function apply(lang) {
+      root.classList.toggle("lang-zh", lang === "zh");
+      root.setAttribute("lang", lang === "zh" ? "zh-CN" : "en");
+      translateNav(lang);
+      var btn = document.getElementById("lang-toggle");
+      if (btn) {
+        btn.querySelector(".lang-toggle-label").textContent = lang === "zh" ? "EN" : "中文";
+        btn.setAttribute("aria-label", lang === "zh" ? "Switch to English" : "切换到中文");
+      }
+      try { localStorage.setItem("site-lang", lang); } catch (e) {}
+    }
+
+    function mountToggle() {
+      var btn = document.createElement("button");
+      btn.id = "lang-toggle";
+      btn.type = "button";
+      btn.className = "lang-toggle";
+      btn.innerHTML = '<i class="bi bi-translate" aria-hidden="true"></i><span class="lang-toggle-label"></span>';
+      btn.addEventListener("click", function () {
+        apply(currentLang() === "zh" ? "en" : "zh");
+      });
+
+      // Keep the button visible on mobile (outside the collapsed menu), next to the hamburger.
+      var toggler = document.querySelector(".navbar .navbar-toggler");
+      var tools = document.querySelector(".navbar .quarto-navbar-tools");
+      if (toggler && toggler.parentNode) {
+        toggler.parentNode.insertBefore(btn, toggler);
+      } else if (tools) {
+        tools.appendChild(btn);
+      } else {
+        btn.classList.add("lang-toggle-floating");
+        document.body.appendChild(btn);
+      }
+    }
+
+    function init() {
+      mountToggle();
+      apply(currentLang());
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  })();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -920,12 +1018,12 @@ https://quarto.org/docs/authoring/includes.html
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Always be curious about the world</p>
+<p><span class="en">Always be curious about the world</span><span class="zh">永远对世界保持好奇</span></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/mk1777-ze" target="_blank">
+    <a class="nav-link" href="https://github.com/mk1777-z" target="_blank">
       <i class="bi bi-github" role="img">
 </i> 
     </a>

@@ -8,16 +8,14 @@ title-block-banner: false
 
 **Zhiqing Ma**
 
-School: Shanghai University
+[School: Carnegie Mellon University]{.en}[学校：卡内基梅隆大学]{.zh}
 
-Phone: +86 18601785926
+[Phone:]{.en}[电话：]{.zh} +1 (412) 894-6446
 
-E-mail: 
-        zhiqingma0228[at]163.com <br>
-        20040228[at]shu.edu.cn
-
+[E-mail:]{.en}[邮箱：]{.zh}
+        zhiqingm[at]andrew.cmu.edu <br>
+        zhiqingma77k[at]gmail.com
 
 </center>
 
 {{< include /files/includes/_socialshare.qmd >}}
-

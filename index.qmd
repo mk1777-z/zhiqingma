@@ -1,76 +1,290 @@
 ---
 title: "Zhiqing Ma"
-subtitle: |
-  **B.E. in Computer Science** | Shanghai University <br>
-  **Email:** zhiqingma77k[at]gmail.com
-description-meta: "Academic Website of Zhiqing Ma"
+pagetitle: "Zhiqing Ma | Software Engineer"
+description-meta: "Zhiqing Ma — Software Engineer focused on backend and distributed systems. M.S. in Information Technology (Information Security) at Carnegie Mellon University."
 image: "files/images/personal.jpg"
+title-block-style: none
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/mk1777-z
-      target: _blank
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/zhiqing-ma-072ab2385/
-      target: _blank
-
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - "posts/**/*.qmd"
-      # - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
-:::{#hero-heading}
+```{=html}
+<div class="home">
 
-Hi, I'm **Zhiqing Ma**.
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="hero-photo">
+      <img src="files/images/personal.jpg" alt="Zhiqing Ma">
+    </div>
+    <div class="hero-body">
+      <p class="hero-status">
+        <span class="dot" aria-hidden="true"></span>
+        <span class="en">Open to Software Engineer (SDE) opportunities</span>
+        <span class="zh">正在寻找软件开发工程师（SDE）机会</span>
+      </p>
+      <h1 class="hero-name">Zhiqing Ma</h1>
+      <p class="hero-role">
+        <span class="en">Software Engineer · Backend &amp; Distributed Systems</span>
+        <span class="zh">软件工程师 · 后端与分布式系统</span>
+      </p>
+      <p class="hero-edu">
+        <span class="en">M.S. in Information Technology (Information Security) @ <strong>Carnegie Mellon University</strong></span>
+        <span class="zh"><strong>卡内基梅隆大学</strong> 信息技术（信息安全方向）硕士在读</span>
+      </p>
+      <div class="hero-actions">
+        <a class="btn-primary-pill" href="mailto:zhiqingm@andrew.cmu.edu">
+          <i class="bi bi-envelope-fill"></i>
+          <span class="en">Email me</span><span class="zh">发送邮件</span>
+        </a>
+        <a class="btn-ghost-pill" href="https://github.com/mk1777-z" target="_blank" rel="noopener">
+          <i class="bi bi-github"></i> GitHub
+        </a>
+        <a class="btn-ghost-pill" href="https://www.linkedin.com/in/zhiqing-ma-072ab2385/" target="_blank" rel="noopener">
+          <i class="bi bi-linkedin"></i> LinkedIn
+        </a>
+      </div>
+    </div>
+  </section>
 
-I am an undergraduate student majoring in **Computer Science and Technology** at **Shanghai University**. 
+  <!-- ============ HIGHLIGHTS ============ -->
+  <section class="stats">
+    <div class="stat">
+      <div class="stat-num">CNY 10M+</div>
+      <div class="stat-label"><span class="en">monthly volume on the payment platform I built services for</span><span class="zh">参与开发的支付平台月交易额</span></div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">6+</div>
+      <div class="stat-label"><span class="en">heterogeneous sources reconciled by my ledger engine</span><span class="zh">对账引擎核对的异构数据源</span></div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">3</div>
+      <div class="stat-label"><span class="en">currencies shipped end to end in fiat withdrawals</span><span class="zh">法币提现端到端新增币种</span></div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">2</div>
+      <div class="stat-label"><span class="en">research papers on DeFi &amp; smart contracts</span><span class="zh">DeFi 与智能合约方向论文</span></div>
+    </div>
+  </section>
 
-My research interests lie at the intersection of **Blockchain Technology**, **Decentralized Finance (DeFi)**, and **Smart Contract Optimization**. I am passionate about combining theoretical research with industrial practice, ranging from backend microservices architecture to privacy computing solutions.
+  <!-- ============ ABOUT ============ -->
+  <section class="section" id="about">
+    <h2 class="section-title"><span class="en">About</span><span class="zh">关于我</span></h2>
+    <div class="about-text">
+      <p class="en">
+        I'm a backend-focused software engineer. I'm currently pursuing an <strong>M.S. in Information Technology (Information Security)</strong>
+        at <strong>Carnegie Mellon University</strong>, after earning my <strong>B.E. in Computer Science</strong> from Shanghai University.
+      </p>
+      <p class="en">
+        At <strong>Huifu Payment</strong> I built production payment services in Java / Spring Cloud — idempotent order APIs,
+        multi-currency withdrawals, fee settlement and ledger reconciliation. I care about correctness under concurrency,
+        consistent ledgers, and systems that fail safely. I also have hands-on experience with blockchain systems
+        (Hyperledger Fabric, Solana) and have co-authored two research papers in that space.
+      </p>
+      <p class="zh">
+        我是一名专注后端方向的软件工程师，目前在<strong>卡内基梅隆大学</strong>攻读<strong>信息技术（信息安全方向）硕士</strong>，
+        本科毕业于上海大学<strong>计算机科学与技术</strong>专业。
+      </p>
+      <p class="zh">
+        在<strong>汇付天下</strong>实习期间，我基于 Java / Spring Cloud 开发生产环境支付服务，包括幂等订单接口、多币种提现、
+        手续费结算与账务对账。我关注并发场景下的正确性、账务一致性以及系统的安全降级。
+        此外，我具备区块链系统（Hyperledger Fabric、Solana）的实践经验，并参与发表了两篇相关论文。
+      </p>
+    </div>
+  </section>
 
-Welcome to my personal website where I share my projects and research.
+  <!-- ============ EDUCATION ============ -->
+  <section class="section" id="education">
+    <h2 class="section-title"><span class="en">Education</span><span class="zh">教育经历</span></h2>
+    <div class="timeline">
+      <article class="tl-item">
+        <div class="tl-logo tl-logo-cmu" aria-hidden="true">CMU</div>
+        <div class="tl-main">
+          <div class="tl-head">
+            <h3>
+              <span class="en">Carnegie Mellon University</span>
+              <span class="zh">卡内基梅隆大学（CMU）</span>
+            </h3>
+            <span class="tl-date"><span class="en">Aug 2026 – Dec 2027 (Expected)</span><span class="zh">2026.08 – 2027.12（预计）</span></span>
+          </div>
+          <p class="tl-sub">
+            <span class="en">Master of Science in Information Technology (Information Security)</span>
+            <span class="zh">信息技术硕士（信息安全方向）</span>
+          </p>
+          <p class="tl-meta"><i class="bi bi-geo-alt"></i> <span class="en">Pittsburgh, PA, USA</span><span class="zh">美国 宾夕法尼亚州 匹兹堡</span></p>
+        </div>
+      </article>
+      <article class="tl-item">
+        <div class="tl-logo tl-logo-shu" aria-hidden="true">SHU</div>
+        <div class="tl-main">
+          <div class="tl-head">
+            <h3>
+              <span class="en">Shanghai University</span>
+              <span class="zh">上海大学</span>
+            </h3>
+            <span class="tl-date"><span class="en">Sep 2022 – Jun 2026</span><span class="zh">2022.09 – 2026.06</span></span>
+          </div>
+          <p class="tl-sub">
+            <span class="en">Bachelor of Engineering in Computer Science and Technology</span>
+            <span class="zh">计算机科学与技术 工学学士</span>
+          </p>
+          <p class="tl-meta"><i class="bi bi-geo-alt"></i> <span class="en">Shanghai, China</span><span class="zh">中国 上海</span></p>
+        </div>
+      </article>
+    </div>
+  </section>
 
-## Internship Experience
+  <!-- ============ EXPERIENCE ============ -->
+  <section class="section" id="experience">
+    <h2 class="section-title"><span class="en">Work Experience</span><span class="zh">实习经历</span></h2>
+    <div class="timeline">
+      <article class="tl-item">
+        <img class="tl-logo" src="files/images/huifu_logo.png" alt="Huifu Payment">
+        <div class="tl-main">
+          <div class="tl-head">
+            <h3>
+              <span class="en">Huifu Payment</span><span class="zh">汇付天下</span>
+              <span class="tl-role"><span class="en">Java Backend Intern</span><span class="zh">Java 后端开发实习生</span></span>
+            </h3>
+            <span class="tl-date"><span class="en">Jul 2025 – Dec 2025</span><span class="zh">2025.07 – 2025.12</span></span>
+          </div>
+          <p class="tl-sub">
+            <span class="en">B2B crypto–fiat payment platform; the production system processes CNY 10M+ in monthly transaction volume.</span>
+            <span class="zh">B2B 加密货币–法币支付平台，生产系统月交易额超 1000 万元人民币。</span>
+          </p>
+          <ul class="tl-points en">
+            <li>Designed payment order creation/cancellation APIs in Spring Cloud; enforced idempotency with Redisson distributed locks (deduplication) and optimistic locking (state transitions) for exactly-once updates.</li>
+            <li>Led the multi-currency upgrade of fiat withdrawals, adding HKD, EUR and SGD end to end (API, validation, ledger) with real-time FX-based limits; owned design, implementation, and JUnit tests with mocked callbacks.</li>
+            <li>Built a fee-settlement flow that reconciles estimated fees against actual channel costs from asynchronous provider callbacks, auto-refunds differences, and retries idempotently to keep the ledger consistent.</li>
+            <li>Developed a scheduled and on-demand reconciliation engine that normalizes and cross-checks internal ledgers against 6+ heterogeneous sources (database tables, payment providers via Feign).</li>
+            <li>Integrated a third-party AI voice-verification service via synchronous requests and asynchronous callbacks over the in-house message queue, persisting verification states and routing risk decisions to manual review.</li>
+          </ul>
+          <ul class="tl-points zh">
+            <li>基于 Spring Cloud 设计支付订单创建/取消接口；通过 Redisson 分布式锁（请求去重）与乐观锁（状态流转）保证幂等，实现 exactly-once 更新。</li>
+            <li>主导法币提现多币种升级，端到端新增港币、欧元、新加坡元（API、校验、账务），并基于实时汇率实现限额控制；独立负责设计、开发及基于 mock 回调的 JUnit 测试。</li>
+            <li>构建手续费结算流程：依据渠道异步回调中的实际成本核对预估手续费，自动退还差额，并通过幂等重试保证账务一致。</li>
+            <li>开发定时与按需触发的对账引擎，对内部账本与 6+ 异构数据源（数据库多张表、通过 Feign 接入的支付渠道）进行标准化与交叉核对。</li>
+            <li>通过同步请求与内部消息队列异步回调接入第三方 AI 语音核验服务，持久化核验状态，并将风控决策路由至人工审核。</li>
+          </ul>
+          <div class="chips">
+            <span>Java</span><span>Spring Cloud</span><span>Redisson</span><span>MySQL</span><span>Feign</span><span>Message Queue</span><span>JUnit</span>
+          </div>
+        </div>
+      </article>
 
-- **Java Backend Engineer Intern** | Huifu Payment Limited
-- **R&D Intern** | Shanghai Data Exchange Corp., Ltd
+      <article class="tl-item">
+        <img class="tl-logo" src="files/images/data_exchange_logo.png" alt="Shanghai Data Exchange">
+        <div class="tl-main">
+          <div class="tl-head">
+            <h3>
+              <span class="en">Shanghai Data Exchange</span><span class="zh">上海数据交易所</span>
+              <span class="tl-role"><span class="en">R&amp;D Intern</span><span class="zh">研发实习生</span></span>
+            </h3>
+            <span class="tl-date"><span class="en">Jan 2025 – Feb 2025</span><span class="zh">2025.01 – 2025.02</span></span>
+          </div>
+          <ul class="tl-points en">
+            <li>Prototyped a Solana DApp for token-based trading of AI compute and built Java REST APIs that validate on-chain events and allocate compute resources.</li>
+          </ul>
+          <ul class="tl-points zh">
+            <li>原型开发基于 Solana 的 AI 算力代币化交易 DApp，并构建 Java REST API，用于校验链上事件并分配算力资源。</li>
+          </ul>
+          <div class="chips">
+            <span>Java</span><span>REST</span><span>Solana</span>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
 
-## Research Experience
+  <!-- ============ PROJECTS ============ -->
+  <section class="section" id="projects">
+    <h2 class="section-title"><span class="en">Projects</span><span class="zh">项目经历</span></h2>
+    <div class="cards">
+      <article class="card-proj">
+        <div class="card-proj-head">
+          <i class="bi bi-hdd-network"></i>
+          <span class="tl-date"><span class="en">Summer 2026</span><span class="zh">2026 夏</span></span>
+        </div>
+        <h3><span class="en">Concurrent HTTP Proxy</span><span class="zh">并发 HTTP 代理</span></h3>
+        <p class="card-proj-sub">CMU 15-503</p>
+        <p class="en">Implemented a multithreaded HTTP proxy in C with POSIX sockets, serving concurrent clients via a thread-per-connection model and a thread-safe LRU cache guarded by reader–writer locks; passed the full test suite.</p>
+        <p class="zh">使用 C 语言与 POSIX socket 实现多线程 HTTP 代理，采用每连接一线程模型服务并发客户端，并实现由读写锁保护的线程安全 LRU 缓存；通过全部测试用例。</p>
+        <div class="chips"><span>C</span><span>POSIX Sockets</span><span>Multithreading</span><span>LRU Cache</span></div>
+      </article>
 
-- **Researcher** | Smart Contract Supervision for Regional Equity Markets
-  - Published in *Blockchain and Web3 Technology Innovation and Application Exchange Conference* 
-- **Independent Researcher** | Uniswap V4 Hook Mechanism Design
-- **Researcher** | MIT XPRO (Bridgewater Project)
+      <article class="card-proj">
+        <div class="card-proj-head">
+          <i class="bi bi-link-45deg"></i>
+          <span class="tl-date"><span class="en">Feb 2024 – Apr 2025</span><span class="zh">2024.02 – 2025.04</span></span>
+        </div>
+        <h3>
+          <a href="posts/projects/chainCloud/index.html">
+            <span class="en">Blockchain Digital Copyright Trading Platform</span><span class="zh">区块链数字版权交易平台</span>
+          </a>
+        </h3>
+        <p class="card-proj-sub">
+          <span class="en">Project Lead (5-person team) · <strong>Second Prize</strong>, Shanghai Computer Application Competition (2025)</span>
+          <span class="zh">项目负责人（5 人团队）· 上海市计算机应用能力大赛<strong>二等奖</strong>（2025）</span>
+        </p>
+        <ul class="en">
+          <li>Led the team from design to a working demo: defined the architecture and API contracts, split work, and built Go/Hertz backend services on a MySQL–Redis–object-storage stack separating assets from transaction state.</li>
+          <li>Implemented Hyperledger Fabric chaincode for copyright registration, trading and automated revenue distribution; integrated an LLM API for context-aware copyright Q&amp;A.</li>
+        </ul>
+        <ul class="zh">
+          <li>带领团队从设计到完成可运行 Demo：定义系统架构与 API 契约、拆分任务，基于 Go/Hertz 构建后端服务，采用 MySQL–Redis–对象存储架构将资产与交易状态分离。</li>
+          <li>实现 Hyperledger Fabric 链码，支持版权登记、交易与自动收益分配；接入大模型 API 实现上下文感知的版权问答。</li>
+        </ul>
+        <div class="chips"><span>Go</span><span>Hertz</span><span>MySQL</span><span>Redis</span><span>Hyperledger Fabric</span></div>
+      </article>
+    </div>
+    <p class="more-link"><a href="projects.html"><span class="en">All projects</span><span class="zh">全部项目</span> <i class="bi bi-arrow-right"></i></a></p>
+  </section>
 
-:::
+  <!-- ============ SKILLS ============ -->
+  <section class="section" id="skills">
+    <h2 class="section-title"><span class="en">Skills</span><span class="zh">专业技能</span></h2>
+    <div class="skills">
+      <div class="skill-row">
+        <div class="skill-cat"><span class="en">Languages</span><span class="zh">编程语言</span></div>
+        <div class="chips chips-lg"><span>Java</span><span>Go</span><span>C/C++</span><span>Python</span><span>SQL</span><span>Solidity</span></div>
+      </div>
+      <div class="skill-row">
+        <div class="skill-cat"><span class="en">Backend</span><span class="zh">后端</span></div>
+        <div class="chips chips-lg"><span>Spring Boot / Cloud</span><span>RESTful APIs</span><span>gRPC</span><span>Microservices</span><span>Message Queues</span><span>Redisson</span><span>JUnit</span><span>Hertz</span></div>
+      </div>
+      <div class="skill-row">
+        <div class="skill-cat"><span class="en">Systems &amp; Infra</span><span class="zh">系统与基础设施</span></div>
+        <div class="chips chips-lg"><span>MySQL</span><span>Redis</span><span>Object Storage</span><span>Multithreading</span><span>POSIX Sockets</span><span>Docker</span><span>Kubernetes</span><span>CI/CD</span><span>Linux</span><span>Git</span><span>AWS</span><span>Alibaba Cloud</span><span>Hyperledger Fabric</span><span>Solana</span></div>
+      </div>
+    </div>
+  </section>
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Projects](posts.qmd#category=projects)&nbsp;, &nbsp;[Interests](posts.qmd#category=interests)&nbsp;, and &nbsp;[More »](./posts.qmd)
+  <!-- ============ PUBLICATIONS ============ -->
+  <section class="section" id="publications">
+    <h2 class="section-title"><span class="en">Publications</span><span class="zh">论文发表</span></h2>
+    <ol class="pubs">
+      <li>
+        <p class="pub-title">ASAP-AMM: Decoupling Swap Settlement from AMM State Transitions</p>
+        <p class="pub-authors">Z. Sui, <strong>Z. Ma</strong>, J. Chen, K. Zhang</p>
+        <p class="pub-venue"><em>Blockchain: Research and Applications</em> · <span class="badge-soft"><span class="en">Under review</span><span class="zh">审稿中</span></span></p>
+      </li>
+      <li>
+        <p class="pub-title"><a href="posts/projects/supervision/index.html">Smart Contract Penetrating Supervision Solution for Regional Equity Markets</a></p>
+        <p class="pub-authors">D. Zhang, H. Song, <strong>Z. Ma</strong></p>
+        <p class="pub-venue"><em>BWTAC 2025</em></p>
+      </li>
+    </ol>
+  </section>
 
-:::{#recent-posts}
-:::
+  <!-- ============ CONTACT CTA ============ -->
+  <section class="cta">
+    <h2><span class="en">Let's build something reliable together.</span><span class="zh">期待与你一起构建可靠的系统。</span></h2>
+    <p>
+      <span class="en">I'm happy to chat about SDE roles, backend systems, or anything payments and security.</span>
+      <span class="zh">欢迎联系我，聊聊 SDE 岗位、后端系统，或支付与安全相关的话题。</span>
+    </p>
+    <a class="btn-primary-pill" href="mailto:zhiqingm@andrew.cmu.edu"><i class="bi bi-envelope-fill"></i> zhiqingm@andrew.cmu.edu</a>
+  </section>
 
-<p align="right">[All Posts »](./posts.qmd)</p>
+</div>
+```

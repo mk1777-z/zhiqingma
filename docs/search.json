@@ -14,244 +14,6 @@
     "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy Travel Journey\n\n\n\ninterests\n\n\n\nMy dream is to light up the world with my footsteps ✨\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVolunteer Service Experience\n\n\n\nvolunteering\n\ncommunity service\n\n\n\nMy journey in community service and voluntary activities in Shanghai\n\n\n\n\n\nDec 17, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nAwards & Honors\n\n\n\nawards\n\n\n\nAcademic achievements and leadership recognitions\n\n\n\n\n\nDec 15, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nRunning Record\n\n\n\ninterests\n\n\n\nkeep running\n\n\n\n\n\nDec 10, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nFreestyle Skating Record\n\n\n\ninterests\n\n\n\nenjoy this\n\n\n\n\n\nNov 4, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nSmart Contract Penetrating Supervision Solution for Regional Equity Markets\n\n\n\nprojects\n\n\n\nProposed a smart contract-based regulatory mechanism for regional equity markets, utilizing a dual-layer blockchain architecture to enable real-time penetrating supervision.\n\n\n\n\n\nSep 3, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nChain Cloud: A decentralized copyright trading platform\n\n\n\nprojects\n\n\n\nDeveloped a blockchain-based platform for copyright trading\n\n\n\n\n\nApr 3, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nHolistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms\n\n\n\nprojects\n\n\n\nImplemented a complex ODE-PDE coupling model to simulate ecosystem dynamics and parasite diffusion.\n\n\n\n\n\nFeb 15, 2024\n\n\nJunjie Pu, Sheng Li, Zhiqing Ma\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/projects/chainCloud/index.html",
-    "href": "posts/projects/chainCloud/index.html",
-    "title": "Chain Cloud: A decentralized copyright trading platform",
-    "section": "",
-    "text": "• Key platform features include: blockchain-based copyright evidence storage, smart contract-driven copyright transactions, multidimensional data analytics and visualization, regulatory auditing, and traceability queries.\n• Blockchain: Developed smart contract chain codes based on Hyperledger Fabric to implement copyright evidence storage, automated transaction execution, and revenue distribution logic, ensuring tamper-proof and fully traceable transaction data.\n• Data Storage: Designed a hybrid storage architecture storing critical transaction hashes on-chain while managing business data off-chain via MySQL and storing image/document files using Huawei Cloud OBS, balancing performance and security requirements.\n• Backend: Designed and implemented the backend architecture for a blockchain-based smart copyright trading platform. Built high-performance RESTful APIs using Golang + Hertz microservices framework to support core functions including copyright registration on-chain, transaction execution, and regulatory review. Implemented a comprehensive permission control system encompassing user registration/login, JWT authentication, and regulatory review. Utilized WebSocket calls to large models for AI-assisted Q&A.\n\n(Click the image to view the project introduction video submitted for the competition)\ngithub repository\n17TH SHANGHAI UNIVERSITY COMPUTER APPLICATION CONTEST Second Prize | Jun 2025"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "Zhiqing Ma",
-    "section": "",
-    "text": "{{&lt; include /files/includes/_socialshare.qmd &gt;}} –&gt;"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/interests/running.html",
-    "href": "posts/interests/running.html",
-    "title": "Running Record",
-    "section": "",
-    "text": "2025 Shanghai International Raceway Youth Run 10km | 2025.11.02\nto be continued …"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zhiqing Ma",
-    "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nHi, I’m Zhiqing Ma.\nI am an undergraduate student majoring in Computer Science and Technology at Shanghai University.\nMy research interests lie at the intersection of Blockchain Technology, Decentralized Finance (DeFi), and Smart Contract Optimization. I am passionate about combining theoretical research with industrial practice, ranging from backend microservices architecture to privacy computing solutions.\nWelcome to my personal website where I share my projects and research.\n\n\n\nJava Backend Engineer Intern | Huifu Payment Limited\nR&D Intern | Shanghai Data Exchange Corp., Ltd\n\n\n\n\n\nResearcher | Smart Contract Supervision for Regional Equity Markets\n\nPublished in Blockchain and Web3 Technology Innovation and Application Exchange Conference\n\nIndependent Researcher | Uniswap V4 Hook Mechanism Design\nResearcher | MIT XPRO (Bridgewater Project)"
-  },
-  {
-    "objectID": "index.html#internship-experience",
-    "href": "index.html#internship-experience",
-    "title": "Zhiqing Ma",
-    "section": "",
-    "text": "Java Backend Engineer Intern | Huifu Payment Limited\nR&D Intern | Shanghai Data Exchange Corp., Ltd"
-  },
-  {
-    "objectID": "index.html#research-experience",
-    "href": "index.html#research-experience",
-    "title": "Zhiqing Ma",
-    "section": "",
-    "text": "Researcher | Smart Contract Supervision for Regional Equity Markets\n\nPublished in Blockchain and Web3 Technology Innovation and Application Exchange Conference\n\nIndependent Researcher | Uniswap V4 Hook Mechanism Design\nResearcher | MIT XPRO (Bridgewater Project)"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Zhiqing Ma",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Projects ,  Interests , and  More »\n\n\n\n\n\n\n\n\n\n\nMy Travel Journey\n\n\n\n\n\n\n\n\n\n\n\n\nVolunteer Service Experience\n\n\n\nDec 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAwards & Honors\n\n\n\nDec 15, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Zhiqing Ma\nSchool: Shanghai University\nPhone: +86 18601785926\nE-mail: zhiqingma0228[at]163.com  20040228[at]shu.edu.cn"
-  },
-  {
-    "objectID": "interns.html",
-    "href": "interns.html",
-    "title": "Internship Experience",
-    "section": "",
-    "text": "Java Backend Engineer Intern | 07.2025 - now\n· Engineered high-availability backend microservices for cross-border payments; designed an asynchronous “estimate-and-compensate” mechanism for multi-currency withdrawals to resolve exchange rate latency and ensure ledger consistency. · Developed full-lifecycle interfaces for stablecoin acquiring, implementing end-to-end logic for order creation, cancellation, and final settlement to enable seamless crypto-to-fiat conversion. · Optimized financial reconciliation processes by building custom SQL automation tools for the finance team and resolved critical production infrastructure issues to ensure system stability."
-  },
-  {
-    "objectID": "interns.html#huifu-payment-limited",
-    "href": "interns.html#huifu-payment-limited",
-    "title": "Internship Experience",
-    "section": "",
-    "text": "Java Backend Engineer Intern | 07.2025 - now\n· Engineered high-availability backend microservices for cross-border payments; designed an asynchronous “estimate-and-compensate” mechanism for multi-currency withdrawals to resolve exchange rate latency and ensure ledger consistency. · Developed full-lifecycle interfaces for stablecoin acquiring, implementing end-to-end logic for order creation, cancellation, and final settlement to enable seamless crypto-to-fiat conversion. · Optimized financial reconciliation processes by building custom SQL automation tools for the finance team and resolved critical production infrastructure issues to ensure system stability."
-  },
-  {
-    "objectID": "interns.html#shanghai-data-exchange-corp.-ltd",
-    "href": "interns.html#shanghai-data-exchange-corp.-ltd",
-    "title": "Internship Experience",
-    "section": "Shanghai Data Exchange Corp., Ltd",
-    "text": "Shanghai Data Exchange Corp., Ltd\n\n\n\n\n\nR&D Intern | 01.2025 - 03.2025 Project: Built and Verified the DApp Model · Built a full-process simulation DApp model for exchanging tokens for AI computing power in Java, with the core module focusing on the interaction between the Solana blockchain and AI computing services."
-  },
-  {
-    "objectID": "interns.html#wutong-chain-digital-technology-research-institute",
-    "href": "interns.html#wutong-chain-digital-technology-research-institute",
-    "title": "Internship Experience",
-    "section": "Wutong Chain Digital Technology Research Institute",
-    "text": "Wutong Chain Digital Technology Research Institute\n\n\n\n\n\nBlockchain R&D Intern | 06.2023 - 08.2023\n· Assisted in building the Wutong Privacy Computing Platform, utilizing secure multi-party computation to achieve “data available but invisible,” solving data circulation privacy challenges."
-  },
-  {
-    "objectID": "posts/interests/skating.html",
-    "href": "posts/interests/skating.html",
-    "title": "Freestyle Skating Record",
-    "section": "",
-    "text": "Director, Technology Department, Roller Skating Club, SHU | 09.2022-06. 2023\nResponsible for teaching the movement to the members and choreographing the dance of roller skating for the opening ceremony of the sports festival, as well as managing the club’s daily work.\n\nto be continued …"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Zhiqing Ma",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Zhiqing Ma",
-    "section": "Links",
-    "text": "Links\nPublished paper\n```{=html}\n\n\n\n\n\n\n``` –&gt;"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Research Projects & School Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nDescription\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nBlockchain and DeFi Research\n\n\nZhiqing Ma, Dr. Zhimei Sui\n\n\nResearch on blockchain technology and decentralized finance applications\n\n\n2025\n\n\ntill-now\n\n\n\n\n\n\n\n\n\nSmart Contract Penetrating Supervision Solution for Regional Equity Markets\n\n\nDenghuang Zhang, Zhiqing Ma\n\n\nProposed a smart contract-based regulartory mechanism for equity markets\n\n\n2025\n\n\n2025\n\n\n\n\n\n\n\n\n\nChain Cloud: A decentralized copyright trading platform\n\n\nZhiqing Ma, Wenhao Wang, Huaxuan Xiao, Siyi Yao\n\n\nDeveloped a blockchain-based platform for copyright trading\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nInheriting Blessings\n\n\nSiyi Yao, Zhiqing Ma, Mingkun Li\n\n\nCreated a short film using AIGC tools\n\n\n2024\n\n\n2024\n\n\n\n\n\n\n\n\n\nHolistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms\n\n\nJunjie Pu, Zhiqing Ma, Sheng Li\n\n\nMCM/ICM Meritorious Winner (First Prize)\n\n\n2024\n\n\n2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/projects/model/index.html",
-    "href": "posts/projects/model/index.html",
-    "title": "Holistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms",
-    "section": "",
-    "text": "• Key project features include: quantification of sex ratio functions, simulation of parasite diffusion using spectral methods, and a robust numerical solver for non-trivial equilibrium systems.\n• Data Analysis & Pre-processing: Cleaned historical observation data and quantified the key “sex ratio function” by conducting comparative analysis between Polynomial Regression and SVM (Support Vector Machines), establishing the statistical foundation for the ecosystem model.\n• Core Simulation Engine: Designed and implemented a solver based on the Finite Difference Method to handle the complex ODE-PDE coupling model. Introduced the Dirac Delta function to accurately mathematically express biological pulses within the ecosystem.\n• Optimization & Stability: Implemented the Levenberg-Marquardt algorithm and Trust Domain Policy Optimization (TRPO) to solve for non-trivial equilibrium, ensuring numerical convergence where traditional black-box tools failed. Applied the Chebyshev spectral method to simulate the diffusion effect of parasites with high accuracy.\n\n(Click the image to view the technical paper)\nMCM/ICM (Mathematical Contest in Modeling) Meritorious Winner (First Prize) | Apr 2024"
-  },
-  {
-    "objectID": "Technology_stack.html",
-    "href": "Technology_stack.html",
-    "title": "Technology Stack",
-    "section": "",
-    "text": "C++\n  \n\n  \n    \n      \n    \n    Java\n  \n\n  \n    \n      \n    \n    Python\n  \n\n  \n    \n      \n    \n    Golang\n  \n\n  \n    \n      \n    \n    Solidity\n  \n\n  \n    \n      \n    \n    SQL\n  \n\n  \n    \n      \n    \n    LaTeX"
-  },
-  {
-    "objectID": "docs/technology_stack.html",
-    "href": "docs/technology_stack.html",
-    "title": "Technology Stack",
-    "section": "",
-    "text": "C++\n  \n\n  \n    \n      \n    \n    Java\n  \n\n  \n    \n      \n    \n    Python\n  \n\n  \n    \n      \n    \n    Golang\n  \n\n  \n    \n      \n    \n    Solidity\n  \n\n  \n    \n      \n    \n    SQL\n  \n\n  \n    \n      \n    \n    LaTeX"
-  },
-  {
-    "objectID": "posts/interests/trip.html",
-    "href": "posts/interests/trip.html",
-    "title": "My Travel Journey",
-    "section": "",
-    "text": "Places Visited\n  \n    \n    China: 21 provinces/regions\n  \n  \n    \n    Japan: 2 cities\n  \n  \n    \n    South Korea: 1 region\n  \n  \n    \n    United States: 4 cities\n  \n  \n    \n    Germany: 1 city\n  \n  \n    \n    Italy: 1 city"
-  },
-  {
-    "objectID": "posts/event-title/index.html",
-    "href": "posts/event-title/index.html",
-    "title": "Zhiqing Ma",
-    "section": "",
-    "text": "{{&lt; include /files/includes/_socialshare.qmd &gt;}} –&gt;"
-  },
-  {
-    "objectID": "posts/projects/awards/index.html",
-    "href": "posts/projects/awards/index.html",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Third Prize, Lanqiao Cup National IT Competition (C/C++), China\nMay 2025\nSecond Prize, 17th Shanghai College Students’ Computer Application Contest\nFeb. 2024 – Apr. 2025\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2024\nMeritorious Winner, American Mathematical Contest in Modeling (MCM) Apr. 2024\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2023"
-  },
-  {
-    "objectID": "posts/projects/awards/index.html#competitions",
-    "href": "posts/projects/awards/index.html#competitions",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Third Prize, Lanqiao Cup National IT Competition (C/C++), China\nMay 2025\nSecond Prize, 17th Shanghai College Students’ Computer Application Contest\nFeb. 2024 – Apr. 2025\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2024\nMeritorious Winner, American Mathematical Contest in Modeling (MCM) Apr. 2024\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2023"
-  },
-  {
-    "objectID": "posts/projects/awards/index.html#honors-scholarships",
-    "href": "posts/projects/awards/index.html#honors-scholarships",
-    "title": "Awards & Honors",
-    "section": "Honors & Scholarships",
-    "text": "Honors & Scholarships\nInnovation and Entrepreneurship Scholarship (Top 5%), Shanghai University 2024 - 2025\nOutstanding Student (Top 6%), Shanghai University\n2024\nLeadership Scholarship (Top 5%), Shanghai University\n2023 – 2024\nOutstanding Student (Top 6%), Shanghai University\n2023\n“Self-Improvement” Scholarship (Top 5%), Shanghai University\n2022 – 2023\n“Love & Charity” Scholarship (Top 5%), Shanghai University\n2022 – 2023"
-  },
-  {
-    "objectID": "posts/projects/awards/index.html#leadership-service",
-    "href": "posts/projects/awards/index.html#leadership-service",
-    "title": "Awards & Honors",
-    "section": "Leadership & Service",
-    "text": "Leadership & Service\nTech Leader, Roller Skating Club, Shanghai University\nJun. 2023 – Jun. 2024\nOfficer, Student Union, Shanghai University\nSep. 2022 – Jun. 2023"
-  },
-  {
-    "objectID": "posts/awards/index.html",
-    "href": "posts/awards/index.html",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Third Prize, Lanqiao Cup National IT Competition (C/C++), China\nMay 2025\nSecond Prize, 17th Shanghai College Students’ Computer Application Contest\nFeb. 2024 – Apr. 2025\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2024\nMeritorious Winner, American Mathematical Contest in Modeling (MCM) Apr. 2024\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2023"
-  },
-  {
-    "objectID": "posts/awards/index.html#competitions",
-    "href": "posts/awards/index.html#competitions",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Third Prize, Lanqiao Cup National IT Competition (C/C++), China\nMay 2025\nSecond Prize, 17th Shanghai College Students’ Computer Application Contest\nFeb. 2024 – Apr. 2025\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2024\nMeritorious Winner, American Mathematical Contest in Modeling (MCM) Apr. 2024\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2023"
-  },
-  {
-    "objectID": "posts/awards/index.html#honors-scholarships",
-    "href": "posts/awards/index.html#honors-scholarships",
-    "title": "Awards & Honors",
-    "section": "Honors & Scholarships",
-    "text": "Honors & Scholarships\nInnovation and Entrepreneurship Scholarship (Top 5%), Shanghai University 2024 - 2025\nOutstanding Student (Top 6%), Shanghai University\n2024\nLeadership Scholarship (Top 5%), Shanghai University\n2023 – 2024\nOutstanding Student (Top 6%), Shanghai University\n2023\n“Self-Improvement” Scholarship (Top 5%), Shanghai University\n2022 – 2023\n“Love & Charity” Scholarship (Top 5%), Shanghai University\n2022 – 2023"
-  },
-  {
-    "objectID": "posts/awards/index.html#leadership-service",
-    "href": "posts/awards/index.html#leadership-service",
-    "title": "Awards & Honors",
-    "section": "Leadership & Service",
-    "text": "Leadership & Service\nTech Leader, Roller Skating Club, Shanghai University\nJun. 2023 – Jun. 2024\nOfficer, Student Union, Shanghai University\nSep. 2022 – Jun. 2023"
-  },
-  {
     "objectID": "posts/volunteering/index.html",
     "href": "posts/volunteering/index.html",
     "title": "Volunteer Service Experience",
@@ -285,5 +47,131 @@
     "title": "Volunteer Service Experience",
     "section": "Statistics",
     "text": "Statistics\n\nTotal Service Hours: 120+ hours\nDuration: 2022 - 2025\nLocation: Shanghai, China\nTypes of Activities: 12+ different categories\n\n\nContinuing to seek opportunities to serve and make a positive impact in the community."
+  },
+  {
+    "objectID": "posts/projects/model/index.html",
+    "href": "posts/projects/model/index.html",
+    "title": "Holistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms",
+    "section": "",
+    "text": "• Key project features include: quantification of sex ratio functions, simulation of parasite diffusion using spectral methods, and a robust numerical solver for non-trivial equilibrium systems.\n• Data Analysis & Pre-processing: Cleaned historical observation data and quantified the key “sex ratio function” by conducting comparative analysis between Polynomial Regression and SVM (Support Vector Machines), establishing the statistical foundation for the ecosystem model.\n• Core Simulation Engine: Designed and implemented a solver based on the Finite Difference Method to handle the complex ODE-PDE coupling model. Introduced the Dirac Delta function to accurately mathematically express biological pulses within the ecosystem.\n• Optimization & Stability: Implemented the Levenberg-Marquardt algorithm and Trust Domain Policy Optimization (TRPO) to solve for non-trivial equilibrium, ensuring numerical convergence where traditional black-box tools failed. Applied the Chebyshev spectral method to simulate the diffusion effect of parasites with high accuracy.\n\n(Click the image to view the technical paper)\nMCM/ICM (Mathematical Contest in Modeling) Meritorious Winner (First Prize) | Apr 2024"
+  },
+  {
+    "objectID": "posts/interests/trip.html",
+    "href": "posts/interests/trip.html",
+    "title": "My Travel Journey",
+    "section": "",
+    "text": "Places Visited\n  \n    \n    China: 21 provinces/regions\n  \n  \n    \n    Japan: 2 cities\n  \n  \n    \n    South Korea: 1 region\n  \n  \n    \n    United States: 4 cities\n  \n  \n    \n    Germany: 1 city\n  \n  \n    \n    Italy: 1 city"
+  },
+  {
+    "objectID": "posts/interests/running.html",
+    "href": "posts/interests/running.html",
+    "title": "Running Record",
+    "section": "",
+    "text": "2025 Shanghai International Raceway Youth Run 10km | 2025.11.02\nto be continued …"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy Travel Journey\n\n\n\ninterests\n\n\n\nMy dream is to light up the world with my footsteps ✨\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVolunteer Service Experience\n\n\n\nvolunteering\n\ncommunity service\n\n\n\nMy journey in community service and voluntary activities in Shanghai\n\n\n\n\n\nDec 17, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nAwards & Honors\n\n\n\nawards\n\n\n\nAcademic achievements and leadership recognitions\n\n\n\n\n\nDec 15, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nRunning Record\n\n\n\ninterests\n\n\n\nkeep running\n\n\n\n\n\nDec 10, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nFreestyle Skating Record\n\n\n\ninterests\n\n\n\nenjoy this\n\n\n\n\n\nNov 4, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nSmart Contract Penetrating Supervision Solution for Regional Equity Markets\n\n\n\nprojects\n\n\n\nProposed a smart contract-based regulatory mechanism for regional equity markets, utilizing a dual-layer blockchain architecture to enable real-time penetrating supervision.\n\n\n\n\n\nSep 3, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nChain Cloud: A decentralized copyright trading platform\n\n\n\nprojects\n\n\n\nDeveloped a blockchain-based platform for copyright trading\n\n\n\n\n\nApr 3, 2025\n\n\nZhiqing Ma\n\n\n\n\n\n\n\n\n\n\n\n\nHolistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms\n\n\n\nprojects\n\n\n\nImplemented a complex ODE-PDE coupling model to simulate ecosystem dynamics and parasite diffusion.\n\n\n\n\n\nFeb 15, 2024\n\n\nJunjie Pu, Sheng Li, Zhiqing Ma\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "interns.html",
+    "href": "interns.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Huifu Payment汇付天下\n          Java Backend InternJava 后端开发实习生\n        \n        Jul 2025 – Dec 2025 · Shanghai2025.07 – 2025.12 · 上海\n      \n      \n        B2B crypto–fiat payment platform; the production system processes CNY 10M+ in monthly transaction volume.\n        B2B 加密货币–法币支付平台，生产系统月交易额超 1000 万元人民币。\n      \n      \n        Idempotent payment APIs — designed payment order creation/cancellation APIs in Spring Cloud; enforced idempotency with Redisson distributed locks (deduplication) and optimistic locking (state transitions) for exactly-once updates.\n        Multi-currency withdrawals — led the upgrade of fiat withdrawals, adding HKD, EUR and SGD end to end (API, validation, ledger) with real-time FX-based limits; owned design, implementation, and JUnit tests with mocked callbacks.\n        Fee settlement — built a flow that reconciles estimated fees against actual channel costs from asynchronous provider callbacks, auto-refunds differences, and retries idempotently to keep the ledger consistent.\n        Reconciliation engine — developed a scheduled and on-demand engine that normalizes and cross-checks internal ledgers against 6+ heterogeneous sources (database tables, payment providers via Feign).\n        AI voice verification — integrated a third-party service via synchronous requests and asynchronous callbacks over the in-house message queue, persisting verification states and routing risk decisions to manual review.\n      \n      \n        幂等支付接口：基于 Spring Cloud 设计支付订单创建/取消接口；通过 Redisson 分布式锁（请求去重）与乐观锁（状态流转）保证幂等，实现 exactly-once 更新。\n        多币种提现：主导法币提现升级，端到端新增港币、欧元、新加坡元（API、校验、账务），并基于实时汇率实现限额控制；独立负责设计、开发及基于 mock 回调的 JUnit 测试。\n        手续费结算：依据渠道异步回调中的实际成本核对预估手续费，自动退还差额，并通过幂等重试保证账务一致。\n        对账引擎：开发定时与按需触发的对账引擎，对内部账本与 6+ 异构数据源（数据库多张表、通过 Feign 接入的支付渠道）进行标准化与交叉核对。\n        AI 语音核验：通过同步请求与内部消息队列异步回调接入第三方服务，持久化核验状态，并将风控决策路由至人工审核。\n      \n      \n        JavaSpring CloudRedissonMySQLFeignMessage QueueJUnit\n      \n    \n  \n\n  \n    \n    \n      \n        \n          Shanghai Data Exchange上海数据交易所\n          R&D Intern研发实习生\n        \n        Jan 2025 – Feb 2025 · Shanghai2025.01 – 2025.02 · 上海\n      \n      \n        Prototyped a Solana DApp for token-based trading of AI compute and built Java REST APIs that validate on-chain events and allocate compute resources.\n      \n      \n        原型开发基于 Solana 的 AI 算力代币化交易 DApp，并构建 Java REST API，用于校验链上事件并分配算力资源。\n      \n      \n        JavaRESTSolana"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Zhiqing Ma\nSchool: Carnegie Mellon University学校：卡内基梅隆大学\nPhone:电话： +1 (412) 894-6446\nE-mail:邮箱： zhiqingm[at]andrew.cmu.edu  zhiqingma77k[at]gmail.com"
+  },
+  {
+    "objectID": "Technology_stack.html",
+    "href": "Technology_stack.html",
+    "title": "Technology Stack",
+    "section": "",
+    "text": "C++\n  \n\n  \n    \n      \n    \n    Java\n  \n\n  \n    \n      \n    \n    Python\n  \n\n  \n    \n      \n    \n    Golang\n  \n\n  \n    \n      \n    \n    Solidity\n  \n\n  \n    \n      \n    \n    SQL\n  \n\n  \n    \n      \n    \n    LaTeX"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zhiqing Ma",
+    "section": "",
+    "text": "Open to Software Engineer (SDE) opportunities\n        正在寻找软件开发工程师（SDE）机会\n      \n      Zhiqing Ma\n      \n        Software Engineer · Backend & Distributed Systems\n        软件工程师 · 后端与分布式系统\n      \n      \n        M.S. in Information Technology (Information Security) @ Carnegie Mellon University\n        卡内基梅隆大学 信息技术（信息安全方向）硕士在读\n      \n      \n        \n          \n          Email me发送邮件\n        \n        \n           GitHub\n        \n        \n           LinkedIn\n        \n      \n    \n  \n\n  \n  \n    \n      CNY 10M+\n      monthly volume on the payment platform I built services for参与开发的支付平台月交易额\n    \n    \n      6+\n      heterogeneous sources reconciled by my ledger engine对账引擎核对的异构数据源\n    \n    \n      3\n      currencies shipped end to end in fiat withdrawals法币提现端到端新增币种\n    \n    \n      2\n      research papers on DeFi & smart contractsDeFi 与智能合约方向论文\n    \n  \n\n  \n  \n    About关于我\n    \n      \n        I'm a backend-focused software engineer. I'm currently pursuing an M.S. in Information Technology (Information Security)\n        at Carnegie Mellon University, after earning my B.E. in Computer Science from Shanghai University.\n      \n      \n        At Huifu Payment I built production payment services in Java / Spring Cloud — idempotent order APIs,\n        multi-currency withdrawals, fee settlement and ledger reconciliation. I care about correctness under concurrency,\n        consistent ledgers, and systems that fail safely. I also have hands-on experience with blockchain systems\n        (Hyperledger Fabric, Solana) and have co-authored two research papers in that space.\n      \n      \n        我是一名专注后端方向的软件工程师，目前在卡内基梅隆大学攻读信息技术（信息安全方向）硕士，\n        本科毕业于上海大学计算机科学与技术专业。\n      \n      \n        在汇付天下实习期间，我基于 Java / Spring Cloud 开发生产环境支付服务，包括幂等订单接口、多币种提现、\n        手续费结算与账务对账。我关注并发场景下的正确性、账务一致性以及系统的安全降级。\n        此外，我具备区块链系统（Hyperledger Fabric、Solana）的实践经验，并参与发表了两篇相关论文。\n      \n    \n  \n\n  \n  \n    Education教育经历\n    \n      \n        CMU\n        \n          \n            \n              Carnegie Mellon University\n              卡内基梅隆大学（CMU）\n            \n            Aug 2026 – Dec 2027 (Expected)2026.08 – 2027.12（预计）\n          \n          \n            Master of Science in Information Technology (Information Security)\n            信息技术硕士（信息安全方向）\n          \n           Pittsburgh, PA, USA美国 宾夕法尼亚州 匹兹堡\n        \n      \n      \n        SHU\n        \n          \n            \n              Shanghai University\n              上海大学\n            \n            Sep 2022 – Jun 20262022.09 – 2026.06\n          \n          \n            Bachelor of Engineering in Computer Science and Technology\n            计算机科学与技术 工学学士\n          \n           Shanghai, China中国 上海\n        \n      \n    \n  \n\n  \n  \n    Work Experience实习经历\n    \n      \n        \n        \n          \n            \n              Huifu Payment汇付天下\n              Java Backend InternJava 后端开发实习生\n            \n            Jul 2025 – Dec 20252025.07 – 2025.12\n          \n          \n            B2B crypto–fiat payment platform; the production system processes CNY 10M+ in monthly transaction volume.\n            B2B 加密货币–法币支付平台，生产系统月交易额超 1000 万元人民币。\n          \n          \n            Designed payment order creation/cancellation APIs in Spring Cloud; enforced idempotency with Redisson distributed locks (deduplication) and optimistic locking (state transitions) for exactly-once updates.\n            Led the multi-currency upgrade of fiat withdrawals, adding HKD, EUR and SGD end to end (API, validation, ledger) with real-time FX-based limits; owned design, implementation, and JUnit tests with mocked callbacks.\n            Built a fee-settlement flow that reconciles estimated fees against actual channel costs from asynchronous provider callbacks, auto-refunds differences, and retries idempotently to keep the ledger consistent.\n            Developed a scheduled and on-demand reconciliation engine that normalizes and cross-checks internal ledgers against 6+ heterogeneous sources (database tables, payment providers via Feign).\n            Integrated a third-party AI voice-verification service via synchronous requests and asynchronous callbacks over the in-house message queue, persisting verification states and routing risk decisions to manual review.\n          \n          \n            基于 Spring Cloud 设计支付订单创建/取消接口；通过 Redisson 分布式锁（请求去重）与乐观锁（状态流转）保证幂等，实现 exactly-once 更新。\n            主导法币提现多币种升级，端到端新增港币、欧元、新加坡元（API、校验、账务），并基于实时汇率实现限额控制；独立负责设计、开发及基于 mock 回调的 JUnit 测试。\n            构建手续费结算流程：依据渠道异步回调中的实际成本核对预估手续费，自动退还差额，并通过幂等重试保证账务一致。\n            开发定时与按需触发的对账引擎，对内部账本与 6+ 异构数据源（数据库多张表、通过 Feign 接入的支付渠道）进行标准化与交叉核对。\n            通过同步请求与内部消息队列异步回调接入第三方 AI 语音核验服务，持久化核验状态，并将风控决策路由至人工审核。\n          \n          \n            JavaSpring CloudRedissonMySQLFeignMessage QueueJUnit\n          \n        \n      \n\n      \n        \n        \n          \n            \n              Shanghai Data Exchange上海数据交易所\n              R&D Intern研发实习生\n            \n            Jan 2025 – Feb 20252025.01 – 2025.02\n          \n          \n            Prototyped a Solana DApp for token-based trading of AI compute and built Java REST APIs that validate on-chain events and allocate compute resources.\n          \n          \n            原型开发基于 Solana 的 AI 算力代币化交易 DApp，并构建 Java REST API，用于校验链上事件并分配算力资源。\n          \n          \n            JavaRESTSolana\n          \n        \n      \n    \n  \n\n  \n  \n    Projects项目经历\n    \n      \n        \n          \n          Summer 20262026 夏\n        \n        Concurrent HTTP Proxy并发 HTTP 代理\n        CMU 15-503\n        Implemented a multithreaded HTTP proxy in C with POSIX sockets, serving concurrent clients via a thread-per-connection model and a thread-safe LRU cache guarded by reader–writer locks; passed the full test suite.\n        使用 C 语言与 POSIX socket 实现多线程 HTTP 代理，采用每连接一线程模型服务并发客户端，并实现由读写锁保护的线程安全 LRU 缓存；通过全部测试用例。\n        CPOSIX SocketsMultithreadingLRU Cache\n      \n\n      \n        \n          \n          Feb 2024 – Apr 20252024.02 – 2025.04\n        \n        \n          \n            Blockchain Digital Copyright Trading Platform区块链数字版权交易平台\n          \n        \n        \n          Project Lead (5-person team) · Second Prize, Shanghai Computer Application Competition (2025)\n          项目负责人（5 人团队）· 上海市计算机应用能力大赛二等奖（2025）\n        \n        \n          Led the team from design to a working demo: defined the architecture and API contracts, split work, and built Go/Hertz backend services on a MySQL–Redis–object-storage stack separating assets from transaction state.\n          Implemented Hyperledger Fabric chaincode for copyright registration, trading and automated revenue distribution; integrated an LLM API for context-aware copyright Q&A.\n        \n        \n          带领团队从设计到完成可运行 Demo：定义系统架构与 API 契约、拆分任务，基于 Go/Hertz 构建后端服务，采用 MySQL–Redis–对象存储架构将资产与交易状态分离。\n          实现 Hyperledger Fabric 链码，支持版权登记、交易与自动收益分配；接入大模型 API 实现上下文感知的版权问答。\n        \n        GoHertzMySQLRedisHyperledger Fabric\n      \n    \n    All projects全部项目 \n  \n\n  \n  \n    Skills专业技能\n    \n      \n        Languages编程语言\n        JavaGoC/C++PythonSQLSolidity\n      \n      \n        Backend后端\n        Spring Boot / CloudRESTful APIsgRPCMicroservicesMessage QueuesRedissonJUnitHertz\n      \n      \n        Systems & Infra系统与基础设施\n        MySQLRedisObject StorageMultithreadingPOSIX SocketsDockerKubernetesCI/CDLinuxGitAWSAlibaba CloudHyperledger FabricSolana\n      \n    \n  \n\n  \n  \n    Publications论文发表\n    \n      \n        ASAP-AMM: Decoupling Swap Settlement from AMM State Transitions\n        Z. Sui, Z. Ma, J. Chen, K. Zhang\n        Blockchain: Research and Applications · Under review审稿中\n      \n      \n        Smart Contract Penetrating Supervision Solution for Regional Equity Markets\n        D. Zhang, H. Song, Z. Ma\n        BWTAC 2025\n      \n    \n  \n\n  \n  \n    Let's build something reliable together.期待与你一起构建可靠的系统。\n    \n      I'm happy to chat about SDE roles, backend systems, or anything payments and security.\n      欢迎联系我，聊聊 SDE 岗位、后端系统，或支付与安全相关的话题。\n    \n     zhiqingm@andrew.cmu.edu"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/awards/index.html",
+    "href": "posts/awards/index.html",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Third Prize, Lanqiao Cup National IT Competition (C/C++), China\nMay 2025\nSecond Prize, 17th Shanghai College Students’ Computer Application Contest\nFeb. 2024 – Apr. 2025\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2024\nMeritorious Winner, American Mathematical Contest in Modeling (MCM) Apr. 2024\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2023"
+  },
+  {
+    "objectID": "posts/awards/index.html#competitions",
+    "href": "posts/awards/index.html#competitions",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "Third Prize, Lanqiao Cup National IT Competition (C/C++), China\nMay 2025\nSecond Prize, 17th Shanghai College Students’ Computer Application Contest\nFeb. 2024 – Apr. 2025\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2024\nMeritorious Winner, American Mathematical Contest in Modeling (MCM) Apr. 2024\nThird Prize, Shanghai Region, China Undergraduate Mathematical Contest in Modeling\nNov. 2023"
+  },
+  {
+    "objectID": "posts/awards/index.html#honors-scholarships",
+    "href": "posts/awards/index.html#honors-scholarships",
+    "title": "Awards & Honors",
+    "section": "Honors & Scholarships",
+    "text": "Honors & Scholarships\nInnovation and Entrepreneurship Scholarship (Top 5%), Shanghai University 2024 - 2025\nOutstanding Student (Top 6%), Shanghai University\n2024\nLeadership Scholarship (Top 5%), Shanghai University\n2023 – 2024\nOutstanding Student (Top 6%), Shanghai University\n2023\n“Self-Improvement” Scholarship (Top 5%), Shanghai University\n2022 – 2023\n“Love & Charity” Scholarship (Top 5%), Shanghai University\n2022 – 2023"
+  },
+  {
+    "objectID": "posts/awards/index.html#leadership-service",
+    "href": "posts/awards/index.html#leadership-service",
+    "title": "Awards & Honors",
+    "section": "Leadership & Service",
+    "text": "Leadership & Service\nTech Leader, Roller Skating Club, Shanghai University\nJun. 2023 – Jun. 2024\nOfficer, Student Union, Shanghai University\nSep. 2022 – Jun. 2023"
+  },
+  {
+    "objectID": "posts/interests/skating.html",
+    "href": "posts/interests/skating.html",
+    "title": "Freestyle Skating Record",
+    "section": "",
+    "text": "Director, Technology Department, Roller Skating Club, SHU | 09.2022-06. 2023\nResponsible for teaching the movement to the members and choreographing the dance of roller skating for the opening ceremony of the sports festival, as well as managing the club’s daily work.\n\nto be continued …"
+  },
+  {
+    "objectID": "posts/projects/chainCloud/index.html",
+    "href": "posts/projects/chainCloud/index.html",
+    "title": "Chain Cloud: A decentralized copyright trading platform",
+    "section": "",
+    "text": "• Key platform features include: blockchain-based copyright evidence storage, smart contract-driven copyright transactions, multidimensional data analytics and visualization, regulatory auditing, and traceability queries.\n• Blockchain: Developed smart contract chain codes based on Hyperledger Fabric to implement copyright evidence storage, automated transaction execution, and revenue distribution logic, ensuring tamper-proof and fully traceable transaction data.\n• Data Storage: Designed a hybrid storage architecture storing critical transaction hashes on-chain while managing business data off-chain via MySQL and storing image/document files using Huawei Cloud OBS, balancing performance and security requirements.\n• Backend: Designed and implemented the backend architecture for a blockchain-based smart copyright trading platform. Built high-performance RESTful APIs using Golang + Hertz microservices framework to support core functions including copyright registration on-chain, transaction execution, and regulatory review. Implemented a comprehensive permission control system encompassing user registration/login, JWT authentication, and regulatory review. Utilized WebSocket calls to large models for AI-assisted Q&A.\n\n(Click the image to view the project introduction video submitted for the competition)\ngithub repository\n17TH SHANGHAI UNIVERSITY COMPUTER APPLICATION CONTEST Second Prize | Jun 2025"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects & School Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nDescription\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nBlockchain and DeFi Research\n\n\nZhiqing Ma, Dr. Zhimei Sui\n\n\nResearch on blockchain technology and decentralized finance applications\n\n\n2025\n\n\ntill-now\n\n\n\n\n\n\n\n\n\nSmart Contract Penetrating Supervision Solution for Regional Equity Markets\n\n\nDenghuang Zhang, Zhiqing Ma\n\n\nProposed a smart contract-based regulartory mechanism for equity markets\n\n\n2025\n\n\n2025\n\n\n\n\n\n\n\n\n\nChain Cloud: A decentralized copyright trading platform\n\n\nZhiqing Ma, Wenhao Wang, Huaxuan Xiao, Siyi Yao\n\n\nDeveloped a blockchain-based platform for copyright trading\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nInheriting Blessings\n\n\nSiyi Yao, Zhiqing Ma, Mingkun Li\n\n\nCreated a short film using AIGC tools\n\n\n2024\n\n\n2024\n\n\n\n\n\n\n\n\n\nHolistic Ecosystem Dynamics with Lampreys Considering Age Structure and Diffusion Terms\n\n\nJunjie Pu, Zhiqing Ma, Sheng Li\n\n\nMCM/ICM Meritorious Winner (First Prize)\n\n\n2024\n\n\n2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
